@@ -25,7 +25,7 @@
         android:text="@string/changeAct1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="30dp"
+        android:layout_marginLeft="20dp"
         android:layout_below="@+id/tv2"
         android:onClick="onClickAct1"
         />
